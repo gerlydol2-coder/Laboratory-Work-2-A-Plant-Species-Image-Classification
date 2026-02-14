@@ -1,15 +1,10 @@
 # Laboratory-Work-2-A-Plant-Species-Image-Classification
 ## Cereal Crops
 
-## 📊 Model Training Results
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c8ed46a8-2712-4efd-96cd-50a633f513c8" width="500"/>
 </p>
 
----
-
-## ⚙️ Training Configuration
 
 The following hyperparameters were selected to ensure stable and effective model training:
 
