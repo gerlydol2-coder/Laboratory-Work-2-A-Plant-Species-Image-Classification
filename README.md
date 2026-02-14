@@ -87,3 +87,11 @@ To improve the model, I would increase the dataset size for underrepresented cro
 
 <img width="605" height="766" alt="image" src="https://github.com/user-attachments/assets/761d2862-324a-4dc0-bb34-6a2c37e0a885" />
 ## https://teachablemachine.withgoogle.com/models/[...]
+
+# Plant Profile: Rice
+
+![Rice Plant](https://milnepublishing.geneseo.edu/app/uploads/sites/235/2020/06/image1-34-1024x768.jpeg)
+
+- **Common Name:** Rice / Asian Rice / Paddy
+- **Scientific Name:** *Oryza sativa*
+- **Description:** *Oryza sativa* is an annual, semi-aquatic grass in the family **Poaceae**. It serves as a primary staple food for over half the global population. The plant features long, flat leaves and a branching flowering head called a **panicle**. It is specifically adapted to flooded environments through internal air channels (**aerenchyma**) that facilitate oxygen transport to submerged roots.
