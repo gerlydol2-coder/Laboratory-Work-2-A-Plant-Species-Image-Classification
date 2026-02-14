@@ -1,4 +1,4 @@
-# A-Laboratory -Work-2-Plant-Species-Image-Classification
+# Laboratory-Work-2-Plant-Species-Image-Classification
 ##  A. Project Overview
 
 ### Brief Description of the Project
