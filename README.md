@@ -40,7 +40,7 @@ The model aims to **assist farmers, agricultural researchers, and agronomists** 
 <td width="50%">
 
 <img src="https://github.com/user-attachments/assets/761d2862-324a-4dc0-bb34-6a2c37e0a885" width="100%"/>
-# Reflection Questions
+
 
 
 </td>
