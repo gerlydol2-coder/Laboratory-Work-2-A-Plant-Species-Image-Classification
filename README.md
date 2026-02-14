@@ -95,3 +95,18 @@ To improve the model, I would increase the dataset size for underrepresented cro
 - **Common Name:** Rice / Asian Rice / Paddy
 - **Scientific Name:** *Oryza sativa*
 - **Description:** *Oryza sativa* is an annual, semi-aquatic grass in the family **Poaceae**. It serves as a primary staple food for over half the global population. The plant features long, flat leaves and a branching flowering head called a **panicle**. It is specifically adapted to flooded environments through internal air channels (**aerenchyma**) that facilitate oxygen transport to submerged roots.
+
+ # Plant Profile: Corn (Maize)
+
+![Ears of Corn](https://cdn.britannica.com/36/167236-050-BF90337E/Ears-corn.jpg)
+
+- **Common Name:** Corn / Maize
+- **Scientific Name:** *Zea mays*
+- **Description:** *Zea mays* is a tall, annual cereal grass in the family **Poaceae**. Domesticated in Mesoamerica, it is distinguished by its large, grain-bearing ears enclosed in husks. Unlike most grasses, it is monoecious, featuring a pollen-producing tassel and silk-covered ears. It is a fundamental global staple used for food, livestock feed, and industrial products like ethanol and bioplastics.
+- # Plant Profile: Barley
+
+![Barley](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmBrAVipw0nSCvulMh-I7xH2qZ-sv2EZ_s1Q&s)
+
+- **Common Name:** Barley
+- **Scientific Name:** *Hordeum vulgare*
+- **Description:** *Hordeum vulgare* is a versatile annual cereal grain in the family **Poaceae**. Known for its prominent awns (bristles) and tolerance to poor soil and cold climates, it is a staple crop used extensively in the brewing industry, for animal fodder, and as a nutritious human food source.
