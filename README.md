@@ -11,7 +11,25 @@
 </td>
 <td width="50%">
 
+## ⚙️ Training Configuration
 
+**Epochs: 50**  
+I selected 50 epochs to ensure that the model had sufficient opportunities to learn the patterns in the dataset. This allowed the model to improve its classification performance while avoiding undertraining. The accuracy increased steadily and stabilized, showing that this value was appropriate.
+
+**Batch Size: 16**  
+A batch size of 16 was chosen to balance training stability and computational efficiency. It enables smoother weight updates without excessive memory usage, resulting in stable convergence.
+
+**Learning Rate: 0.001**  
+The learning rate of 0.001 ensures gradual and controlled optimization. It prevents overshooting and supports smooth loss reduction during training.
+
+---
+
+### ✅ Overall Performance
+These hyperparameter settings were selected to achieve high accuracy while maintaining stable and efficient training performance.
+
+</td>
+</tr>
+</table>
 
 ## 🌾 Cereal Classification Dataset
 
