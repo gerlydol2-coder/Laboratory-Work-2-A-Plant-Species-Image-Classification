@@ -33,7 +33,6 @@ The model aims to **assist farmers, agricultural researchers, and agronomists** 
 | <img src="https://www.johnstonseed.com/wp-content/uploads/2017/08/buckwheat-4424194_1280.jpg" width="100"> | **Buckwheat** | *Fagopyrum esculentum* | Gluten-free seed with a unique triangular shape. |
 | <img src="https://as1.ftcdn.net/v2/jpg/01/82/39/40/1000_F_182394013_LzaD94QJMmHgTKTP1zpITxMFyBjJGIZS.jpg" width="100"> | **Amaranth** | *Amaranthus caudatus* | Vibrant ancient seed crop; highly nutritious pseudocereal. |
 
-
 ## C. 📊 Model Training Details
 
 <table>
