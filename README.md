@@ -38,6 +38,7 @@ The model aims to **assist farmers, agricultural researchers, and agronomists** 
 <table>
 <tr>
 <td width="50%">
+<img width="226" height="498" alt="image" src="https://github.com/user-attachments/assets/6bf9aec2-c6cc-4292-996e-26c97c64c287" />
 
 <img src="https://github.com/user-attachments/assets/761d2862-324a-4dc0-bb34-6a2c37e0a885" width="100%"/>
 
@@ -65,6 +66,8 @@ These hyperparameter settings were selected to achieve high accuracy while maint
 </td>
 </tr>
 </table>
+# D. D. Model Evaluation
+<img src="https://github.com/user-attachments/assets/761d2862-324a-4dc0-bb34-6a2c37e0a885" width="100%"/>
 
 ## 🌾 Cereal Classification Dataset
 
