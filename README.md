@@ -58,7 +58,7 @@ The model aims to **assist farmers, agricultural researchers, and agronomists** 
 
 To verify the effectiveness of the training, I monitored the accuracy and loss curves. These graphs indicate how well the model learned over time and whether it can generalize to new data.
 
-<img src="https://github.com/user-attachments/assets/761d2862-324a-4dc0-bb34-6a2c37e0a885" width="90%" height="90" alt="Accuracy and Loss Graphs" />
+<img src="https://github.com/user-attachments/assets/761d2862-324a-4dc0-bb34-6a2c37e0a885" width="90%" height="110" alt="Accuracy and Loss Graphs" />
 
 ### 🔍 Key Metrics Observed:eight
 
