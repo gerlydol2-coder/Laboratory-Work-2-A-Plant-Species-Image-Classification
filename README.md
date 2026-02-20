@@ -35,34 +35,26 @@ The model aims to **assist farmers, agricultural researchers, and agronomists** 
 
 
 ## C. 📊 Model Training Details
+
 <table>
 <tr>
 <td width="50%">
-<img width="226" height="498" alt="image" src="https://github.com/user-attachments/assets/6bf9aec2-c6cc-4292-996e-26c97c64c287" />
-
-<img src="https://github.com/user-attachments/assets/761d2862-324a-4dc0-bb34-6a2c37e0a885" width="100%"/>
-
-
-
+<img src="https://github.com/user-attachments/assets/6bf9aec2-c6cc-4292-996e-26c97c64c287" width="100%" alt="Teachable Machine Settings" />
 </td>
 <td width="50%">
 
-## ⚙️Model Training Rsults and Details
+### Why I choose this values?
+**Epochs: 50** I selected 50 epochs to ensure that the model had sufficient opportunities to learn the patterns in the dataset. This allowed the model to improve its classification performance while avoiding undertraining. The accuracy increased steadily and stabilized, showing that this value was appropriate.
 
-**Epochs: 50**  
-I selected 50 epochs to ensure that the model had sufficient opportunities to learn the patterns in the dataset. This allowed the model to improve its classification performance while avoiding undertraining. The accuracy increased steadily and stabilized, showing that this value was appropriate.
+**Batch Size: 16** A batch size of 16 was chosen to balance training stability and computational efficiency. It enables smoother weight updates without excessive memory usage, resulting in stable convergence.
 
-**Batch Size: 16**  
-A batch size of 16 was chosen to balance training stability and computational efficiency. It enables smoother weight updates without excessive memory usage, resulting in stable convergence.
+**Learning Rate: 0.001** The learning rate of 0.001 ensures gradual and controlled optimization. It prevents overshooting and supports smooth loss reduction during training.
 
-**Learning Rate: 0.001**  
-The learning rate of 0.001 ensures gradual and controlled optimization. It prevents overshooting and supports smooth loss reduction during training.
+</td>
+</tr>
+</table>
 
 ---
-
-### ✅ Overall Performance
-These hyperparameter settings were selected to achieve high accuracy while maintaining stable and efficient training performance.
-
 </td>
 </tr>
 </table>
