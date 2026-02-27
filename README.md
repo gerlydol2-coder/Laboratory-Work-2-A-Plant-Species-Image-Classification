@@ -1,28 +1,14 @@
 # 🌾 Laboratory Work 2: Plant Species Image Classification
 
-An image classification system that identifies different cereal crops using deep learning.
 
 ---
 
 # 📌 A. Project Overview
+This project develops an image classification system that identifies different cereal crops—such as Finger Millet, Corn, Rye, Pearl Millet, Rice, Barley, and Oats—using deep learning. The system analyzes crop images to automatically recognize their type, helping improve crop monitoring, management, and accuracy in agricultural practices.
 
-## 🌱 Brief Description of the Project
+🌱 Brief Description of the Project
 
-This project focuses on building an **image classification system** that can identify different **cereal crops** from images.
-
-The model is trained on a dataset of labeled cereal crop images, including:
-
-- Finger millet  
-- Corn (maize)  
-- Rye  
-- Pearl millet  
-- Rice  
-- Barley  
-- Oats  
-
-By analyzing the visual features of each crop, the system can automatically recognize the type of cereal crop in an image.
-
----
+This project develops an image classification system that can automatically identify different cereal crops from images. The model is trained on a labeled dataset containing crops such as Finger Millet, Corn (Maize), Rye, Pearl Millet, Rice, Barley, and Oats. By learning the unique visual features of each crop, the system can accurately recognize and classify cereal crops in new images, offering a practical tool for agricultural monitoring and management.
 
 ## 🎯 Purpose of the Image Classification Model
 
