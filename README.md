@@ -90,7 +90,7 @@ The steady upward trend shows effective learning during training.
 
 The validation accuracy reached approximately **98–99%**, which is very close to the training accuracy.
 
-This demonstrates strong generalization ability and minimal overfitting, meaning the model performs well on unseen tropical fruit images.
+This demonstrates strong generalization ability and minimal overfitting, meaning the model performs well on unseen cereal crop images.
 
 </td>
 </tr>
