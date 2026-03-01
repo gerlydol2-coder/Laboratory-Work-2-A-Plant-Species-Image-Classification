@@ -55,9 +55,7 @@ Automating crop recognition reduces manual work, minimizes errors, and improves 
 
 # 📊 C. Model Training Details
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/6bf9aec2-c6cc-4292-996e-26c97c64c287" width="450"/>
-</p>
+<img width="228" height="500" alt="image" src="https://github.com/user-attachments/assets/32a13dd7-b65a-40f3-a31a-7ee9290dc7d1" />
 
 ## ⚙️ Why I Chose These Values
 
