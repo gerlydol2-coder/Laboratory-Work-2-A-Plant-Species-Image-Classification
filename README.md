@@ -149,7 +149,7 @@ This confirms that the model maintains consistent performance on unseen data and
 - **Overfitting:** Minimal  
 - **Generalization Ability:** Strong  
 
-Overall, the model demonstrates high accuracy and reliable performance in classifying tropical fruit images.
+Overall, the model demonstrates high accuracy and reliable performance in classifying cereal crop images.
 
 # D. 🧠Reflection Questions
 
