@@ -53,6 +53,8 @@ Automating crop recognition reduces manual work, minimizes errors, and improves 
 
 ---
 
+# 📈 D. Model Evaluation
+
 ## 1️⃣ Training Accuracy per Epoch
 
 <table>
@@ -65,27 +67,89 @@ Automating crop recognition reduces manual work, minimizes errors, and improves 
 <td width="60%">
 
 The training accuracy rapidly increased and reached nearly **100% (1.0)**.  
-This indicates that the model successfully learned the patterns and distinguishing features from the tropical fruit dataset.
+This indicates that the model successfully learned the distinguishing features of the tropical fruit dataset.
 
-Although the training accuracy is very high, it is important to compare it with validation accuracy to ensure that the model is not overfitting.
+The steady upward trend shows effective learning during training.
 
 </td>
 </tr>
 </table>
 
-# 📌 Final Conclusion
+---
 
-Based on the accuracy and loss curves, I conclude that my model learned effectively and demonstrates strong generalization capability. The high accuracy and low loss values indicate that the model is reliable and suitable for classification tasks.
+## 2️⃣ Validation Accuracy per Epoch
+
+<table>
+<tr>
+<td width="40%">
+
+<img src="https://github.com/user-attachments/assets/3b98c72f-126d-44c1-8d77-e856ce87f6ab" width="100%"/>
+
+</td>
+<td width="60%">
+
+The validation accuracy reached approximately **98–99%**, which is very close to the training accuracy.
+
+This demonstrates strong generalization ability and minimal overfitting, meaning the model performs well on unseen tropical fruit images.
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 🔍 Key Metrics Observed
+## 3️⃣ Training Loss per Epoch
 
-- **Accuracy Curve:** Training and test accuracy both converged toward 100%, indicating strong learning performance.
-- **Loss Curve:** Loss significantly dropped during the first 10 epochs and stabilized near zero.
-- **Generalization:** Test accuracy closely followed training accuracy, showing the model is robust and not overfitted.
+<table>
+<tr>
+<td width="40%">
+
+<img src="https://github.com/user-attachments/assets/87a5af59-1445-43c5-99dd-3194c086b015" width="100%"/>
+
+</td>
+<td width="60%">
+
+The training loss started high and quickly decreased toward zero.
+
+This shows that the model progressively minimized prediction errors during training and improved its classification performance over time.
+
+</td>
+</tr>
+</table>
 
 ---
+
+## 4️⃣ Validation Loss per Epoch
+
+<table>
+<tr>
+<td width="40%">
+
+<img src="https://github.com/user-attachments/assets/55feda65-fedd-4075-b3b9-5fdbf3188af2" width="100%"/>
+
+</td>
+<td width="60%">
+
+The validation loss also decreased significantly and remained low throughout training.
+
+This confirms that the model maintains consistent performance on unseen data and supports its strong generalization capability.
+
+</td>
+</tr>
+</table>
+
+---
+
+# ✅ Overall Model Performance Summary
+
+- **Training Accuracy:** ~100%  
+- **Validation Accuracy:** ~98–99%  
+- **Training Loss:** Near 0  
+- **Validation Loss:** Low and stable  
+- **Overfitting:** Minimal  
+- **Generalization Ability:** Strong  
+
+Overall, the model demonstrates high accuracy and reliable performance in classifying tropical fruit images.
 
 # 🧠 Reflection Questions
 
