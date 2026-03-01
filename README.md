@@ -53,88 +53,25 @@ Automating crop recognition reduces manual work, minimizes errors, and improves 
 
 ---
 
-# 📊 C. Model Training Details
-
-<img width="228" height="500" alt="image" src="https://github.com/user-attachments/assets/32a13dd7-b65a-40f3-a31a-7ee9290dc7d1" />
-
-## ⚙️ Why I Chose These Values
-
-- **Epochs: 50**  
-  I selected 50 epochs to ensure the model had sufficient opportunities to learn patterns without overfitting. This allowed the accuracy to stabilize and reach its peak performance.
-
-- **Batch Size: 16**  
-  A batch size of 16 was chosen to balance training stability and computational efficiency. It allows smoother weight updates and prevents memory issues during training.
-
-- **Learning Rate: 0.001**  
-  This rate ensures gradual and controlled optimization. It prevents the model from overshooting the optimal solution and supports smooth reduction in loss.
-
----
-
-# 📈 D. Model Evaluation
-
-To evaluate the effectiveness of my model, I monitored the accuracy and loss curves during training.
-
-These graphs help me understand:
-
-- How well the model learned from training data  
-- How well it generalizes to unseen data  
-
----
-
 ## 1️⃣ Training Accuracy per Epoch
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/440279ca-a122-430f-955c-bd6cfa498e23" width="500"/>
-</p>
+<table>
+<tr>
+<td width="40%">
 
-The training accuracy rapidly increased and reached nearly **100% (1.0)**, indicating that my model successfully learned the patterns from the training dataset.
+<img src="https://github.com/user-attachments/assets/440279ca-a122-430f-955c-bd6cfa498e23" width="100%"/>
 
-However, high training accuracy alone does not guarantee good performance on new data, so I also analyzed the validation accuracy.
+</td>
+<td width="60%">
 
----
+The training accuracy rapidly increased and reached nearly **100% (1.0)**.  
+This indicates that the model successfully learned the patterns and distinguishing features from the tropical fruit dataset.
 
-## 2️⃣ Validation Accuracy per Epoch
+Although the training accuracy is very high, it is important to compare it with validation accuracy to ensure that the model is not overfitting.
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/3b98c72f-126d-44c1-8d77-e856ce87f6ab" width="500"/>
-</p>
-
-The validation accuracy reached approximately **98–99%**, very close to the training accuracy.
-
-This tells me that my model generalizes well to unseen data and shows minimal signs of overfitting.
-
----
-
-## 3️⃣ Training Loss per Epoch
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/87a5af59-1445-43c5-99dd-3194c086b015" width="500"/>
-</p>
-
-The training loss started high and quickly decreased toward zero. This means the model progressively minimized prediction errors during learning.
-
----
-
-## 4️⃣ Validation Loss per Epoch
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/55feda65-fedd-4075-b3b9-5fdbf3188af2" width="500"/>
-</p>
-
-The validation loss also decreased significantly and remained low overall, confirming consistent performance on unseen data.
-
----
-
-# ✅ Overall Model Performance Summary
-
-- Training Accuracy: ~100%  
-- Validation Accuracy: ~98–99%  
-- Training Loss: Near 0  
-- Validation Loss: Low and stable  
-- Overfitting: Minimal  
-- Generalization Ability: Strong  
-
----
+</td>
+</tr>
+</table>
 
 # 📌 Final Conclusion
 
