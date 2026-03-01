@@ -4,7 +4,7 @@
 ---
 
 # 📌 A. Project Overview
-This project develops an image classification system that identifies different cereal crops—such as Finger Millet, Corn, Rye, Pearl Millet, Rice, Barley, and Oats—using deep learning. The system analyzes crop images to automatically recognize their type, helping improve crop monitoring, management, and accuracy in agricultural practices.
+
 
 🌱 Brief Description of the Project
 
