@@ -32,7 +32,7 @@ Automating crop recognition reduces manual work, minimizes errors, and improves 
 |:---:|:---|:---|:---|
 | <img src="https://milnepublishing.geneseo.edu/app/uploads/sites/235/2020/06/image1-34-1024x768.jpeg" width="100"> | **Rice** | *Oryza sativa* | Semi-aquatic grass; staple food for half the world. |
 | <img src="https://cdn.britannica.com/36/167236-050-BF90337E/Ears-corn.jpg" width="100"> | **Corn (Maize)** | *Zea mays* | Tall grass with large, grain-bearing ears in husks. |
-| <img src="https://blog.suvie.com/wp-content/uploads/2021/08/wheat-2526829_1920-1360x907.jpg" width="100"> | **Wheat** | *Triticum aestivum* | The primary grain used for bread and gluten products. |
+| <img src="https://vlsci.com/wp-content/uploads/2022/07/melissa-askew-y4xZxzN754M-unsplash-scaled.jpg" width="100"> | **Wheat** | *Triticum aestivum* | The primary grain used for bread and gluten products. |
 | <img src="https://blog.suvie.com/wp-content/uploads/2021/08/wheat-2526829_1920-1360x907.jpg" width="100"> | **Einkorn** | *Triticum monococcum* | Ancient wheat with a simple genetic structure. |
 | <img src="https://img.freepik.com/premium-photo/emmer-wheat-with-hulled-grains-robust-spikes_1079150-77348.jpg" width="100"> | **Emmer** | *Triticum dicoccum* | Early staple wheat; used in specialty gourmet dishes. |
 | <img src="https://sovereignfoods.com.au/cdn/shop/products/Spelt-Grain-Biodynamic-20kg-Burrum-Biodynamics-Sovereign-Foods-1665628161_1100x.jpg" width="100"> | **Spelt** | *Triticum spelta* | Ancient wheat subspecies with a nutty flavor. |
