@@ -3,7 +3,7 @@
 
 ---
 
-# 📌 A. Project Overview
+# A. 📌  Project Overview
 
 
 🌱 Brief Description of the Project
@@ -24,7 +24,7 @@ Automating crop recognition reduces manual work, minimizes errors, and improves 
 
 ---
 
-# 🌾 B. Plant Species Section
+#  B. 🌾Plant Species Section
 
 ## 🌾 Cereal Crop Species Profiles
 
@@ -53,7 +53,7 @@ Automating crop recognition reduces manual work, minimizes errors, and improves 
 
 ---
 
-# 📈 D. Model Evaluation
+# C. 📈 Model Evaluation
 
 ## 1️⃣ Training Accuracy per Epoch
 
@@ -151,7 +151,7 @@ This confirms that the model maintains consistent performance on unseen data and
 
 Overall, the model demonstrates high accuracy and reliable performance in classifying tropical fruit images.
 
-# 🧠 Reflection Questions
+# D. 🧠Reflection Questions
 
 ### 1. How did the number of images per class affect accuracy?
 
@@ -183,7 +183,7 @@ I would increase dataset size, apply data augmentation, experiment with deeper a
 
 ---
 
-# 🔗 Model Link
+# E. 🔗 Model Link
 
 ### https://drive.google.com/file/d/1bQVZBT3QNkr6cpWio0WOiW-EA1NZ4_eP/view?usp=sharing
 
